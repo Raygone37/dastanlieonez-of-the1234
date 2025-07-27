@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dastanlieonez-of-the1234
+- 👋 Hi, I’m @Raygone37
 - 👀 I’m interested in with coding
 - 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on hacks
-- 📫 How to reach me go to here
+-    I learn phyton and unity
 
 <!---
 dastanlieonez-of-the1234/dastanlieonez-of-the1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
